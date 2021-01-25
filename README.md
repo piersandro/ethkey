@@ -37,4 +37,4 @@ python ethkey.py /home/quadrans/.quadrans/keystore/UTC--2016-02-29T20-16-53.9256
   --private_key_qr=key.png
 ``` 
 
-Project based on a form of [ethkey](https://github.com/owahlen/ethkey)
+Project based on a fork of [ethkey](https://github.com/owahlen/ethkey)
